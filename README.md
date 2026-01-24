@@ -22,13 +22,13 @@ O trabalho foi realizado de forma colaborativa pelo **Squad 3**, aplicando prát
 
 ---
 
-## Objetivo
+#Objetivo
 
 O objetivo do projeto é representar uma **plataforma administrativa integrada**, capaz de centralizar informações e organizar processos internos, proporcionando maior clareza, controle e eficiência operacional.
 
 ---
 
-## Desenvolvimento
+#Desenvolvimento
 
 O desenvolvimento do projeto seguiu uma abordagem prática e incremental, passando pelas seguintes etapas:
 
@@ -43,7 +43,7 @@ A proposta foi criar uma solução **simples, intuitiva e visualmente organizada
 
 ---
 
-## Status do Projeto
+# Status do Projeto
 
 **Status atual:** Em desenvolvimento (MVP)
 
@@ -68,17 +68,10 @@ Atualmente, o projeto conta com:
 
 ## Imagens do Projeto
 
-> Substitua os nomes dos arquivos conforme as imagens do seu repositório.
-
 ### Tela Inicial
 ![Tela Inicial](./assets/tela-inicial.png)
-
 ### Visão Geral do Sistema
 ![Dashboard](./assets/dashboard.png)
-
-### Fluxo de Pedido
-![Fluxo de Pedido](./assets/fluxo-pedido.png)
-
 ---
 
 ## Estrutura do Projeto
