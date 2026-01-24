@@ -101,11 +101,7 @@ Integrantes do Squad 3
 Observações
 Este é um projeto de caráter acadêmico, desenvolvido com foco em boas práticas de organização, design de interfaces e desenvolvimento frontend.
 
-
 ---
-
-### Por que essa versão é forte
-
 - ✔️ Limpa e profissional  
 - ✔️ Linguagem madura  
 - ✔️ Organização clara  
