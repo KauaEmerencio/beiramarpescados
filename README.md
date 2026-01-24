@@ -1,86 +1,113 @@
-# # 🐟 Beira Mar Pescados
+# Pescados Beira Mar  
+Sistema Administrativo — Projeto em Desenvolvimento
 
-**Beira Mar Pescados** é um **painel administrativo web** desenvolvido para simular a gestão de uma peixaria, com foco em **clientes, pedidos, estoque, vendas e mercadorias**.
+Projeto desenvolvido para a disciplina **Residência em Software I**, da **Universidade Tiradentes (UNIT)**, com foco na criação de uma solução digital para organização e modernização dos processos internos da empresa Pescados Beira Mar.
 
-🔗 Acesse o projeto online:  
-- [Página de Login](https://kauaemerencio.github.io/beiramarpescados/)  
-- [Dashboard / Início](https://kauaemerencio.github.io/beiramarpescados/menu/inicio.html)
-
----
-
-## 📌 Sobre o Projeto
-
-Este projeto é um **front-end funcional** que representa como seria um **sistema administrativo para uma peixaria**, permitindo:
-
-- Cadastro e consulta de clientes  
-- Registro e histórico de pedidos  
-- Controle de estoque  
-- Visualização e cadastro de mercadorias  
-- Área de vendas e notificações  
-
-O painel foi desenvolvido com **HTML, CSS e JavaScript**, hospedado no GitHub Pages, e serve como protótipo ou base para sistemas completos com backend.
+🔗 Site do projeto:  
+https://kauaemerencio.github.io/beiramarpescados/
 
 ---
 
-## 🖥️ Telas do Sistema
+## Sobre a Empresa
 
-### 🔐 Login
-Tela inicial para acesso ao painel administrativo.  
-📸 *Print sugerido:* `prints/login.png`
+A **Pescados Beira Mar** é uma empresa sergipana fundada em **1974**, com atuação nos segmentos de atacado, varejo, restaurantes e feiras livres. Ao longo de sua trajetória, consolidou-se como uma referência regional no comércio e distribuição de pescados.
 
 ---
 
-### 📊 Dashboard
-Painel principal do sistema com menus laterais e indicadores resumidos de vendas, pedidos e clientes.  
-📸 *Print sugerido:* `prints/dashboard.png`
+## Contexto do Projeto
+
+Este projeto foi desenvolvido no contexto acadêmico da disciplina **Residência em Software I**, simulando um ambiente real de desenvolvimento de software.
+
+O trabalho foi realizado de forma colaborativa pelo **Squad 3**, aplicando práticas de organização, divisão de tarefas e construção conjunta da solução.
 
 ---
 
-## 🗂️ Funcionalidades
+## Objetivo
 
-| Funcionalidade | Descrição |
-|----------------|-----------|
-| Login | Acesso seguro ao painel administrativo |
-| Dashboard | Visão geral de métricas e informações |
-| Clientes | Cadastro e consulta de clientes |
-| Pedidos | Criar e consultar pedidos |
-| Estoque | Controle de mercadorias disponíveis |
-| Painel de Venda | Área para registrar vendas |
-| Mercadoria | Cadastro e consulta de produtos |
-| Avisos | Notificações do sistema |
+O objetivo do projeto é representar uma **plataforma administrativa integrada**, capaz de centralizar informações e organizar processos internos, proporcionando maior clareza, controle e eficiência operacional.
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Desenvolvimento
 
+O desenvolvimento do projeto seguiu uma abordagem prática e incremental, passando pelas seguintes etapas:
 
+- Análise do funcionamento da empresa  
+- Identificação dos principais desafios operacionais  
+- Definição do fluxo principal do sistema  
+- Prototipação das telas no Figma  
+- Desenvolvimento do site de apresentação  
+- Publicação do projeto via GitHub Pages  
 
-beiramarpescados/
-│
-├─ index.html # Tela de login
-├─ menu/
-│ └─ inicio.html # Dashboard administrativo
-├─ assets/
-│ ├─ css/ # Estilos
-│ ├─ js/ # Scripts
-│ └─ img/ # Imagens do sistema
-├─ prints/ # Prints do sistema para README
-└─ README.md # Este arquivo
-
+A proposta foi criar uma solução **simples, intuitiva e visualmente organizada**, servindo como base para evoluções futuras.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Status do Projeto
 
-- **HTML5** – Estrutura das páginas  
-- **CSS3** – Estilos e layout  
-- **JavaScript** – Interatividade básica  
-- **GitHub Pages** – Hospedagem gratuita do site  
+**Status atual:** Em desenvolvimento (MVP)
+
+Atualmente, o projeto conta com:
+- Estrutura visual definida  
+- Telas principais do sistema  
+- Fluxo geral de navegação  
+- Site publicado para visualização  
 
 ---
 
-## ▶️ Como Usar Localmente
+## Tecnologias Utilizadas
 
-1. Clone o repositório:
+- HTML5  
+- CSS3  
+- JavaScript  
+- Figma  
+- Git e GitHub  
+- GitHub Pages  
+
+---
+
+## Imagens do Projeto
+
+> Substitua os nomes dos arquivos conforme as imagens do seu repositório.
+
+### Tela Inicial
+![Tela Inicial](./assets/tela-inicial.png)
+
+### Visão Geral do Sistema
+![Dashboard](./assets/dashboard.png)
+
+### Fluxo de Pedido
+![Fluxo de Pedido](./assets/fluxo-pedido.png)
+
+---
+
+## Estrutura do Projeto
+
 ```bash
-git clone https://github.com/kauaemerencio/beiramarpescados.git
+beiramarpescados
+├── assets
+│   └── imagens do projeto
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+Desenvolvedores
+Projeto desenvolvido em grupo (Squad 3) para a disciplina Residência em Software I — UNIT.
+
+Kauã Lisboa Emerencio
+Juntamente com os
+Integrantes do Squad 3
+
+Observações
+Este é um projeto de caráter acadêmico, desenvolvido com foco em boas práticas de organização, design de interfaces e desenvolvimento frontend.
+
+
+---
+
+### Por que essa versão é forte
+
+- ✔️ Limpa e profissional  
+- ✔️ Linguagem madura  
+- ✔️ Organização clara  
+- ✔️ Sem exageros visuais  
+- ✔️ Ótima para GitHub e avaliação  
